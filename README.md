@@ -1,6 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+# regexcite <img src="man/figures/logo.png" align="right" height="92" alt="" />
+
 **NOTE: This is a toy package created for expository purposes, for the
 second edition of [R Packages](https://r-pkgs.org). It is not meant to
 actually be useful. If you want a package for factor handling, please

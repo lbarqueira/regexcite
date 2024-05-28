@@ -6,6 +6,8 @@
 \alias{regexcite-package}
 \title{regexcite: Make Regular Expressions More Exciting}
 \description{
+\if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
+
 Convenience functions to make some common tasks with string manipulation and regular expressions a bit easier.
 }
 \author{
